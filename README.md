@@ -6,5 +6,5 @@ chuyển sang nhánh của mình: git checkout -b Phuong origin/Phuong
 
 Upcode lên: git add .
             git commit -m "làm phần bàn"
-            git push
+            git push 
 Kéo code mới về: git pull
