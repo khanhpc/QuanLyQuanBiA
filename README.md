@@ -3,6 +3,7 @@ kéo src về: git clone https://github.com/khanhpc/QuanLyQuanBiA.git
 sau đó cd QuanLyQuanBiA
 xem các nhanh: git branch -a
 chuyển sang nhánh của mình: git checkout -b Phuong origin/Phuong
+(Nếu đã tồn tại chỉ cần: git checkout Phuong)
 
 Upcode lên: git add .
             git commit -m "làm phần bàn"
