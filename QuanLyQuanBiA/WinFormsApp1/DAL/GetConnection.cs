@@ -5,9 +5,9 @@ using System.Data.SqlClient;
 
 namespace WinFormsApp1.DAL
 {
-    internal class GetConnection
+    internal class GetConnection    
     {
-        private static string connectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=QuanLyQuanBia;Integrated Security=True;Encrypt=True;TrustServerCertificate=True";
+        private static string connectionString = @"Data Source=MFuowg;Initial Catalog=QuanLyQuanBiA;Integrated Security=True;TrustServerCertificate=True";
 
         public static SqlConnection GetSqlConnection()
         {

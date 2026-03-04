@@ -172,19 +172,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\khanh\\.nuget\\packages\\": {}
+    "C:\\Users\\La Minh Phuong\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "D:\\Đồ án\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
-      "packagesPath": "C:\\Users\\khanh\\.nuget\\packages\\",
-      "outputPath": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\obj\\",
+      "projectPath": "D:\\Đồ án\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\La Minh Phuong\\.nuget\\packages\\",
+      "outputPath": "D:\\Đồ án\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\khanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\La Minh Phuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -240,7 +240,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
