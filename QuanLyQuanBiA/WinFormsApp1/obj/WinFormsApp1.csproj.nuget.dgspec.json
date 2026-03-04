@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Đồ án\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "D:\\Đồ án\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Đồ án\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "D:\\Đồ án\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\La Minh Phuong\\.nuget\\packages\\",
-        "outputPath": "D:\\Đồ án\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\obj\\",
+        "outputPath": "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\La Minh Phuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
