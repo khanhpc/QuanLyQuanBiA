@@ -70,3 +70,119 @@ D:\Tin\LapTrinh\C#\BaiTap\QuanLyBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0
 D:\Tin\LapTrinh\C#\BaiTap\QuanLyBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MainPanel.TinhTrangBanGUI.ucTable.resources
 E:\TaiLieu\Tin\LapTrinh\C#\BaiTap\QuanLyBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MainPanelGUI.LichSuThanhToanGUI.LichSuThanhToanForm.resources
 D:\Tin\LapTrinh\C#\BaiTap\QuanLyBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MainPanelGUI.LichSuThanhToanGUI.LichSuThanhToanForm.resources
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Image\Food\BiaTiger.jpg
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Image\Food\CocaCola.jpg
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Image\Food\nuocsuoi.jpg
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Image\Food\StingDo.jpg
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.exe
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.deps.json
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.pdb
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.LoginForm.resources
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MainPanelGUI.LichSuThanhToanGUI.LichSuThanhToanForm.resources
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MainPanel1.resources
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MenuForm.resources
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.ucFoodItem.resources
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.TinhTrangTableForm.resources
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MainPanel.TinhTrangBanGUI.ucTable.resources
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.sourcelink.json
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinForms.E4050A35.Up2Date
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\refint\WinFormsApp1.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.pdb
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\ref\WinFormsApp1.dll
+D:\Đồ án\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.AdminGUI.BaoCaoDoanhThuForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Image\Food\BiaTiger.jpg
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Image\Food\CocaCola.jpg
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Image\Food\nuocsuoi.jpg
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Image\Food\StingDo.jpg
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.exe
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.deps.json
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.pdb
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.AdminGUI.AdminGUI.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.AdminGUI.BaoCaoDoanhThuForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.AdminGUI.DoanhThuGUI.DoanhThuAdminForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.AdminGUI.FoodGUI.FoodAdminForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.AdminGUI.NhanVienGUI.NhanVienAdminForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.AdminGUI.TableGUI.TableAdminForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.LoginForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MainPanelGUI.LichSuThanhToanGUI.LichSuThanhToanForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MainPanel1.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MenuForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.ucFoodItem.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.TinhTrangTableForm.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GUI.MainPanel.TinhTrangBanGUI.ucTable.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.sourcelink.json
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinForms.E4050A35.Up2Date
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\refint\WinFormsApp1.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.pdb
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\obj\Debug\net10.0-windows\ref\WinFormsApp1.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\Đồ án nhóm\QuanLyQuanBiA\QuanLyQuanBiA\WinFormsApp1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll

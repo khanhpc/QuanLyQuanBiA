@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Text;
 using WinFormsApp1.DAL;
 using WinFormsApp1.DTO;
@@ -41,6 +42,26 @@ namespace WinFormsApp1.BLL
         public static bool ChuyenBan(int idBanCu, int idBanMoi)
         {
             return BillDAL.ChuyenBan(idBanCu, idBanMoi);
+        }
+
+        public static DataTable GetDoanhThuBLL(DateTime tuNgay, DateTime denNgay)
+        {
+            return BillDAL.GetDoanhThuByDate(tuNgay, denNgay);
+        }
+
+        public static DataTable GetDoanhThuTheoNgayBLL(DateTime tuNgay, DateTime denNgay)
+        {
+            return BillDAL.GetDoanhThuTheoNgay(tuNgay, denNgay);
+        }
+
+        public static DataTable GetDoanhThuTheoThangBLL(DateTime tuNgay, DateTime denNgay)
+        {
+            return BillDAL.GetDoanhThuTheoThang(tuNgay, denNgay);
+        }
+
+        public static DataTable GetSanPhamBanChayBLL(DateTime tuNgay, DateTime denNgay)
+        {
+            return BillDAL.GetSanPhamBanChay(tuNgay, denNgay);
         }
     }
 }

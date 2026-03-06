@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\",
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|d:\\tin\\laptrinh\\c#\\baitap\\quanlybia\\quanlyquanbia\\winformsapp1\\gui\\mainpanelgui\\lichsuthanhtoangui\\lichsuthanhtoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\gui\\mainpanelgui\\lichsuthanhtoangui\\lichsuthanhtoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u0111\u1ED3 \u00E1n nh\u00F3m\\quanlyquanbia\\quanlyquanbia\\winformsapp1\\gui\\admingui\\doanhthugui\\doanhthuadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\gui\\admingui\\doanhthugui\\doanhthuadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|d:\\tin\\laptrinh\\c#\\baitap\\quanlybia\\quanlyquanbia\\winformsapp1\\gui\\mainpanelgui\\tinhtrangbangui\\tinhtrangtableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\gui\\mainpanelgui\\tinhtrangbangui\\tinhtrangtableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u0111\u1ED3 \u00E1n nh\u00F3m\\quanlyquanbia\\quanlyquanbia\\winformsapp1\\bll\\billbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\bll\\billbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u0111\u1ED3 \u00E1n nh\u00F3m\\quanlyquanbia\\quanlyquanbia\\winformsapp1\\dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\winformsapp1\\gui\\admingui\\doanhthugui\\doanhthuadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\gui\\admingui\\doanhthugui\\doanhthuadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u0111\u1ED3 \u00E1n nh\u00F3m\\quanlyquanbia\\quanlyquanbia\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,35 +30,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LichSuThanhToanForm.cs [Design]",
-              "DocumentMoniker": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\GUI\\MainPanelGUI\\LichSuThanhToanGUI\\LichSuThanhToanForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\GUI\\MainPanelGUI\\LichSuThanhToanGUI\\LichSuThanhToanForm.cs",
-              "ToolTip": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\GUI\\MainPanelGUI\\LichSuThanhToanGUI\\LichSuThanhToanForm.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\GUI\\MainPanelGUI\\LichSuThanhToanGUI\\LichSuThanhToanForm.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "BillDAL.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\DAL\\BillDAL.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DAL\\BillDAL.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\DAL\\BillDAL.cs",
+              "RelativeToolTip": "WinFormsApp1\\DAL\\BillDAL.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAwAEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T07:45:29.86Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-05T15:23:12.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TinhTrangTableForm.cs",
-              "DocumentMoniker": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\GUI\\MainPanelGUI\\TinhTrangBanGUI\\TinhTrangTableForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\GUI\\MainPanelGUI\\TinhTrangBanGUI\\TinhTrangTableForm.cs",
-              "ToolTip": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\GUI\\MainPanelGUI\\TinhTrangBanGUI\\TinhTrangTableForm.cs",
-              "RelativeToolTip": "WinFormsApp1\\GUI\\MainPanelGUI\\TinhTrangBanGUI\\TinhTrangTableForm.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAxwFoAAAAwAAAAAAAAAA==",
+              "Title": "BillBLL.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\BLL\\BillBLL.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\BLL\\BillBLL.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\BLL\\BillBLL.cs",
+              "RelativeToolTip": "WinFormsApp1\\BLL\\BillBLL.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T07:27:49.696Z",
+              "WhenOpened": "2026-03-05T15:22:44.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoanhThuAdminForm.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\GUI\\AdminGUI\\DoanhThuGUI\\DoanhThuAdminForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\GUI\\AdminGUI\\DoanhThuGUI\\DoanhThuAdminForm.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\GUI\\AdminGUI\\DoanhThuGUI\\DoanhThuAdminForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\GUI\\AdminGUI\\DoanhThuGUI\\DoanhThuAdminForm.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwE0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:48:30.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoanhThuAdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\GUI\\AdminGUI\\DoanhThuGUI\\DoanhThuAdminForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\GUI\\AdminGUI\\DoanhThuGUI\\DoanhThuAdminForm.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\GUI\\AdminGUI\\DoanhThuGUI\\DoanhThuAdminForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\GUI\\AdminGUI\\DoanhThuGUI\\DoanhThuAdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:43:52.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n nh\u00F3m\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:55:40.671Z",
               "EditorCaption": ""
             }
           ]

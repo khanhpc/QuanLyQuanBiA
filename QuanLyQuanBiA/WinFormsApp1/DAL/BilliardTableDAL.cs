@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System.Text;
 using WinFormsApp1.DTO;
 namespace WinFormsApp1.DAL
