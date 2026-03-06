@@ -25,13 +25,10 @@ namespace WinFormsApp1.GUI.AdminGUI.DoanhThuGUI
             LoadDanhSachDoanhThu(dtptuNgay.Value.Date, dtpdenNgay.Value.Date);
 
         }
-       
 
 
-        private void lbBieuDo_Click(object sender, EventArgs e)
-        {
 
-        }
+
 
         private void btnBaoCao_Click(object sender, EventArgs e)
         {
@@ -67,15 +64,15 @@ namespace WinFormsApp1.GUI.AdminGUI.DoanhThuGUI
                 DataTable dtNgay = BillBLL.GetDoanhThuTheoNgayBLL(tuNgay, denNgay);
                 chartNgay.DataSource = dtNgay;
 
-               
+
                 chartNgay.Series[0].XValueMember = "Ngay";
                 chartNgay.Series[0].YValueMembers = "TongTien";
 
-               
-                chartNgay.Series[0].Name = "Doanh thu (VNĐ)";
-                chartNgay.DataBind(); 
 
-               
+                chartNgay.Series[0].Name = "Doanh thu (VNĐ)";
+                chartNgay.DataBind();
+
+
                 DataTable dtThang = BillBLL.GetDoanhThuTheoThangBLL(tuNgay, denNgay);
                 chartThang.DataSource = dtThang;
 
@@ -88,6 +85,22 @@ namespace WinFormsApp1.GUI.AdminGUI.DoanhThuGUI
             catch (Exception ex)
             {
                 MessageBox.Show("Lỗi vẽ biểu đồ: " + ex.Message);
+            }
+        }
+
+
+
+        private void LoadSanPhamBanChay(DateTime tuNgay, DateTime denNgay)
+        {
+            try
+            {
+                DataTable dt = BillBLL.GetSanPhamBanChayBLL(tuNgay, denNgay);
+                dgvBanChay.DataSource = dt;
+            }
+
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi tải sản phẩm bán chạy:" + ex.Message);
             }
         }
     }

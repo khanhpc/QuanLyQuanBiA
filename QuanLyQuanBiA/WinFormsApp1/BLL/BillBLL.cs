@@ -58,5 +58,10 @@ namespace WinFormsApp1.BLL
         {
             return BillDAL.GetDoanhThuTheoThang(tuNgay, denNgay);
         }
+
+        public static DataTable GetSanPhamBanChayBLL(DateTime tuNgay, DateTime denNgay)
+        {
+            return BillDAL.GetSanPhamBanChay(tuNgay, denNgay);
+        }
     }
 }

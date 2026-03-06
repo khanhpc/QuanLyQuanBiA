@@ -284,6 +284,37 @@ namespace WinFormsApp1.DAL
             }
             return dataTable;
         }
+
+        public static DataTable GetSanPhamBanChay(DateTime tuNgay, DateTime denNgay)
+        {
+            DataTable dataTable = new DataTable();
+            string query = @"
+        SELECT TOP 5
+            f.name AS [Tên sản phẩm], 
+            SUM(bI.count) AS [Số lượng]
+        from Bill b
+        JOIN BillInfo bi ON bi.id = bi.Bill
+        JOIN Foof f ON bi.idFood = f.bi
+        WHERE b.status = 1
+        AND b.DateCheckIn >= @tuNgay
+        AND b.DateCheckIn <= @denNgay
+        GROUP BY f.name
+        ORDER BY SUM(bI.count) DESC";
+
+            using (SqlConnection conn = GetConnection.GetSqlConnection())
+            {
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    DateTime denNgayCuoiNgay = new DateTime(denNgay.Year, denNgay.Month, denNgay.Day, 23, 59, 59);
+                    cmd.Parameters.AddWithValue("@tuNgay", tuNgay);
+                    cmd.Parameters.AddWithValue("@denNgay", denNgayCuoiNgay);
+
+                    SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+                    adapter.Fill(dataTable);
+                }
+            }
+            return dataTable;
+        }
     }
 
 }
