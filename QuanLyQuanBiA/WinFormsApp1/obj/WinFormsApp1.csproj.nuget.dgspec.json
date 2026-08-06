@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\khanh\\.nuget\\packages\\",
-        "outputPath": "D:\\Tin\\LapTrinh\\C#\\BaiTap\\QuanLyBiA\\QuanLyQuanBiA\\WinFormsApp1\\obj\\",
+        "projectPath": "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\La Minh Phuong\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ án nhóm\\QuanLyQuanBiA\\QuanLyQuanBiA\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\khanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\La Minh Phuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,9 +46,13 @@
         "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
           "dependencies": {
-            "System.Data.SqlClient": {
+            "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.9.1, )"
+              "version": "[7.0.0-preview3.25342.7, )"
+            },
+            "WinForms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.10.0, )"
             }
           },
           "imports": [
@@ -70,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

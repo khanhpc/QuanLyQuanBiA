@@ -1,6 +1,7 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
+using System.Data;
 using System.Text;
 using WinFormsApp1.DTO;
 
@@ -179,6 +180,140 @@ namespace WinFormsApp1.DAL
                     return result > 0;
                 }
             }
+        }
+
+
+        public static DataTable GetDoanhThuByDate(DateTime tuNgay, DateTime denNgay)
+        {
+            DataTable dataTable = new DataTable();
+            string query = @"
+                SELECT 
+                    b.id AS [Mã HĐ],
+                    t.name AS [Tên Bàn],
+                    b.DateCheckIn AS [Giờ Vào],
+                    b.DateCheckOut AS [Giờ Ra],
+                    d.name AS [Khuyến Mãi],
+                    b.totalPrice AS [Tổng Tiền],
+                    a.DisplayName AS [Thu Ngân]
+                FROM Bill b
+                JOIN BilliardTable t ON b.idTable = t.id
+                LEFT JOIN Discount d ON b.idDiscount = d.id
+                LEFT JOIN Account a ON b.idAccount = a.id
+                WHERE b.status = 1 
+                AND b.DateCheckIn >= @tuNgay 
+                AND b.DateCheckIn <= @denNgay";
+
+            using (SqlConnection conn = GetConnection.GetSqlConnection())
+            {
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    DateTime denNgayCuoiNgay = new DateTime(denNgay.Year, denNgay.Month, denNgay.Day, 23, 59, 59);
+
+                    cmd.Parameters.AddWithValue("@tuNgay", tuNgay);
+                    cmd.Parameters.AddWithValue("@denNgay", denNgayCuoiNgay);
+
+                    SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+                    try
+                    {
+                        conn.Open();
+                        adapter.Fill(dataTable);
+                    }
+                    catch (Exception ex)
+                    {
+                        throw new Exception("Lỗi DAL: " + ex.Message);
+                    }
+                }
+            }
+            return dataTable;
+        }
+
+        public static DataTable GetDoanhThuTheoNgay(DateTime tuNgay, DateTime denNgay)
+        {
+            DataTable dataTable = new DataTable();
+            string query = @"
+        SELECT 
+            FORMAT(DateCheckIn, 'dd/MM/yyyy') AS [Ngay], 
+            SUM(totalPrice) AS [TongTien]
+        FROM Bill
+        WHERE status = 1 
+        AND DateCheckIn >= @tuNgay 
+        AND DateCheckIn <= @denNgay
+        GROUP BY FORMAT(DateCheckIn, 'dd/MM/yyyy'), CAST(DateCheckIn AS DATE)
+        ORDER BY CAST(DateCheckIn AS DATE)";
+
+            using (SqlConnection conn = GetConnection.GetSqlConnection())
+            {
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    DateTime denNgayCuoiNgay = new DateTime(denNgay.Year, denNgay.Month, denNgay.Day, 23, 59, 59);
+                    cmd.Parameters.AddWithValue("@tuNgay", tuNgay);
+                    cmd.Parameters.AddWithValue("@denNgay", denNgayCuoiNgay);
+
+                    SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+                    adapter.Fill(dataTable);
+                }
+            }
+            return dataTable;
+        }
+
+        public static DataTable GetDoanhThuTheoThang(DateTime tuNgay, DateTime denNgay)
+        {
+            DataTable dataTable = new DataTable();
+            string query = @"
+        SELECT 
+            'Tháng ' + CAST(MONTH(DateCheckIn) AS VARCHAR) + '/' + CAST(YEAR(DateCheckIn) AS VARCHAR) AS [Thang], 
+            SUM(totalPrice) AS [TongTien]
+        FROM Bill
+        WHERE status = 1 
+        AND DateCheckIn >= @tuNgay 
+        AND DateCheckIn <= @denNgay
+        GROUP BY MONTH(DateCheckIn), YEAR(DateCheckIn)
+        ORDER BY YEAR(DateCheckIn), MONTH(DateCheckIn)";
+
+            using (SqlConnection conn = GetConnection.GetSqlConnection())
+            {
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    DateTime denNgayCuoiNgay = new DateTime(denNgay.Year, denNgay.Month, denNgay.Day, 23, 59, 59);
+                    cmd.Parameters.AddWithValue("@tuNgay", tuNgay);
+                    cmd.Parameters.AddWithValue("@denNgay", denNgayCuoiNgay);
+
+                    SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+                    adapter.Fill(dataTable);
+                }
+            }
+            return dataTable;
+        }
+
+        public static DataTable GetSanPhamBanChay(DateTime tuNgay, DateTime denNgay)
+        {
+            DataTable dataTable = new DataTable();
+            string query = @"
+        SELECT TOP 5
+            f.name AS [Tên sản phẩm], 
+            SUM(bI.count) AS [Số lượng]
+        from Bill b
+        JOIN BillInfo bi ON bi.id = bi.Bill
+        JOIN Foof f ON bi.idFood = f.bi
+        WHERE b.status = 1
+        AND b.DateCheckIn >= @tuNgay
+        AND b.DateCheckIn <= @denNgay
+        GROUP BY f.name
+        ORDER BY SUM(bI.count) DESC";
+
+            using (SqlConnection conn = GetConnection.GetSqlConnection())
+            {
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    DateTime denNgayCuoiNgay = new DateTime(denNgay.Year, denNgay.Month, denNgay.Day, 23, 59, 59);
+                    cmd.Parameters.AddWithValue("@tuNgay", tuNgay);
+                    cmd.Parameters.AddWithValue("@denNgay", denNgayCuoiNgay);
+
+                    SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+                    adapter.Fill(dataTable);
+                }
+            }
+            return dataTable;
         }
     }
 
